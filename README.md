@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes.
+
 # Faraday Http Cache
 
 [![Build Status](https://secure.travis-ci.org/plataformatec/faraday-http-cache.svg?branch=master)](https://travis-ci.org/plataformatec/faraday-http-cache)
